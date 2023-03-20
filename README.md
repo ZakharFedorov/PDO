@@ -28,7 +28,7 @@
 
 ### Získání přístupových údajů
 
-Pro získání přístupových údajů ke e-learningovému portálu
+Pro získání přístupových údajů ke e-learningovému portálu, nutné aby vam udělali účet Liane.
 
 
 
@@ -55,27 +55,14 @@ II. Přístup k portálu
   - C. Požadavky na prohlížeč
 
 III. Přihlašování ke kurzu
-  - A. Výběr kurzu
-  - B. Kliknutí na tlačítko "Přihlásit se"
-  - C. Vyplnění přihlašovacích údajů
-  - D. Potvrzení přihlášení
 
-IV. Zobrazení potvrzení o přihlášení
-  - A. Zobrazení potvrzení
-  - B. Kontrola správnosti údajů
-  - C. Navigace v kurzu
+IV. Odhlášení z kurzu
 
-V. Odhlášení z kurzu
-  - A. Výběr kurzu
-  - B. Kliknutí na tlačítko "Odhlásit se"
-  - C. Potvrzení odhlášení
-
-VI. Řešení problémů
+V. Řešení problémů
   - A. Chybové hlášky
-  - B. Kontrola přihlašovacích údajů
-  - C. Kontrola internetového připojení
+  - B. Kontrola internetového připojení
 
-VII. Závěr
+VI. Závěr
   - A. Shrnutí dokumentace
   - B. Doporučené postupy
   - C. Odkazy na další zdroje informací
