@@ -20,20 +20,20 @@
     3. Použití klávesových zkratek
 
 #### III. Konfigurace
-   1. Nastavení jazyka
-   2. Nastavení kódování
-   3. Změna výchozího stylu textu
+   - Nastavení jazyka
+   - Nastavení kódování
+   - Změna výchozího stylu textu
 
 
 #### IV. FAQ
-- Často kladené dotazy
-- Řešení problémů
+   - Často kladené dotazy
+   - Řešení problémů
 
 #### V. Odkazy a zdroje
-- Další informace o Windows Notepad
-- Odkazy na související aplikace a nástroje
-- Literatura a zdroje použité při tvorbě dokumentace
+   - Další informace o Windows Notepad
+   - Odkazy na související aplikace a nástroje
+   - Literatura a zdroje použité při tvorbě dokumentace
 
 #### VI. Přílohy
-- Seznam klávesových zkratek
-- Tabulka kódování
+   - Seznam klávesových zkratek
+   - Tabulka kódování
