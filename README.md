@@ -18,7 +18,7 @@
   4) Splňovat předpoklady kurzu, pokud jsou stanoveny (např. úspěšné absolvování předchozích kurzů apod.)
   5) Mít dostatečné technické vybavení, např. počítač nebo chytrý telefon s internetovým připojením a prohlížečem, který je kompatibilní s portálem
 
-## Přístup k portálu
+## II. Přístup k portálu
 
 ### Získání přístupových údajů
 
