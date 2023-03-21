@@ -14,7 +14,7 @@
     1. Otevírání souborů
     2. Ukládání souborů
     3. Kopírování, vkládání a mazání textu
-4. Nastavení stylu textu
+    4. Nastavení stylu textu
 - Pokročilé funkce
     1. Hledání a nahrazování textu
     2. Formátování dokumentů
