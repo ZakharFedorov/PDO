@@ -7,7 +7,6 @@
 - Co je Windows Notepad?
 - K čemu se používá?
 - Jak získat a nainstalovat Notepad
-- D. Osnova dokumentace
 
 #### II. Průvodce použitím
 - Základní funkce
@@ -20,20 +19,21 @@
     2. Formátování dokumentů
     3. Použití klávesových zkratek
 
-#### III. Konfigurace a správa
-- Základní nastavení
-    1. Nastavení jazyka a kódování
-    2. Změna výchozího stylu textu
-- Speciální funkce
-    1. Použití externích nástrojů
-    2. Propojení s dalšími aplikacemi
-- Údržba a oprava
-    1. Aktualizace a zálohování
-    2. Odstranění chyb a problémů
+#### III. Konfigurace
+   1. Nastavení jazyka
+   2. Nastavení kódování
+   3. Změna výchozího stylu textu
+
 
 #### IV. FAQ
 - Často kladené dotazy
 - Řešení problémů
 
 #### V. Odkazy a zdroje
+- Další informace o Windows Notepad
+- Odkazy na související aplikace a nástroje
+- Literatura a zdroje použité při tvorbě dokumentace
+
 #### VI. Přílohy
+- Seznam klávesových zkratek
+- Tabulka kódování
