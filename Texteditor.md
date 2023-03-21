@@ -30,7 +30,6 @@
 #### V. Odkazy a zdroje
    - Další informace o Windows Notepad
    - Odkazy na související aplikace a nástroje
-   - Literatura a zdroje použité při tvorbě dokumentace
 
 #### VI. Přílohy
    - Seznam klávesových zkratek
