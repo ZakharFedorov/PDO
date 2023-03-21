@@ -1,6 +1,6 @@
 # Zapís do kurzu na E-learningovem portálu
 
-## I. 
+## I. Přehled
 
 ### Účel dokumentace
 
