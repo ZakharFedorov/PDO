@@ -2,16 +2,16 @@
 
 ## I. Úvod
 
-### A. Účel dokumentace
+### Účel dokumentace
 
 #### E-learning je internet portál, ktery poskytuje vzdělávací prostředí v rámci univerzitní síti. V E-learningu můžete jak vytvořit nový kurz předmětu, tak i se zapsat na již existující, vše záleží na vaší roli.
 
-### B. Cílová skupina uživatelů
+### Cílová skupina uživatelů
 - Student univerzity, který se má možnost zapsat do aktuálně přidělenému pro něj kurzu a pracovat s informacemi a úkoly poskytnutými vlastním Univerzitním profesořem.
   
 - Univerzitní profesor, který může vytvařit vlastní kurz pro své studenty a řídit ho obsahem.
 
-### C. Požadavky na přihlášení ke kurzu
+### Požadavky na přihlášení ke kurzu
 
 1) Být registrovaným uživatelem školního portálu
 
@@ -45,24 +45,24 @@ Pro získání přístupových údajů ke e-learningovému portálu, nutné aby 
 ---
 ## Struktura:
 I. Úvod
-  -  A. Účel dokumentace
-  -  B. Cílová skupina uživatelů
-  - C. Požadavky na přihlášení ke kurzu
+  - Účel dokumentace
+  - Cílová skupina uživatelů
+  - Požadavky na přihlášení ke kurzu
 
 II. Přístup k portálu
-  - A. Získání přístupových údajů
-  - B. Navigace na portálu
-  - C. Požadavky na prohlížeč
+  - Získání přístupových údajů
+  - Navigace na portálu
+  - Požadavky na prohlížeč
 
 III. Přihlašování ke kurzu
 
 IV. Odhlášení z kurzu
 
 V. Řešení problémů
-  - A. Chybové hlášky
-  - B. Kontrola internetového připojení
+  - Chybové hlášky
+  - Kontrola internetového připojení
 
 VI. Závěr
-  - A. Shrnutí dokumentace
-  - B. Doporučené postupy
-  - C. Odkazy na další zdroje informací
+  - Shrnutí dokumentace
+  - Doporučené postupy
+  - Odkazy na další zdroje informací
