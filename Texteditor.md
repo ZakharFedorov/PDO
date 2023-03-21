@@ -16,14 +16,12 @@
     4. Nastavení stylu textu
 - Pokročilé funkce
     1. Hledání a nahrazování textu
-    2. Formátování dokumentů
-    3. Použití klávesových zkratek
+    2. Použití klávesových zkratek
 
 #### III. Konfigurace
    - Nastavení jazyka
    - Nastavení kódování
    - Změna výchozího stylu textu
-
 
 #### IV. FAQ
    - Často kladené dotazy
