@@ -96,9 +96,7 @@ Pokud se vyskytnou potíže s přihlášením, zkontrolujte své přihlašovací
 Pokud potřebujete další informace o používání školního portálu, můžete se obrátit na technickou podporu portálu nebo administrátora.
 Další informace o požadavcích na prohlížeč a zabezpečení můžete najít v dokumentaci vašeho prohlížeče nebo na webových stránkách poskytovatele internetových služeb.
 
-.
-.
-.
+
 ---
 ## Struktura:
 I. Úvod
