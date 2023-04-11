@@ -4,12 +4,12 @@
 
 ### Účel dokumentace
 
-   E-learning je internet portál, ktery poskytuje vzdělávací prostředí v rámci univerzitní síti. V E-learningu můžete jak vytvořit nový kurz předmětu, tak i se zapsat na již existující, vše záleží na vaší roli.
+   E-lerning je internetový portál, který poskytuje vzdělávací prostředí v rámci univerzitní sítě. Na E-lerningové platformě můžete vytvořit nový kurz předmětu nebo se zapsat na existující kurz, vše závisí na vaší roli.
 
 ### Cílová skupina uživatelů
-  - Student univerzity, který se má možnost zapsat do aktuálně přidělenému pro něj kurzu a pracovat s informacemi a úkoly poskytnutými vlastním Univerzitním profesořem.
-  - Univerzitní učitel, který může vytvařit vlastní kurz pro své studenty a řídit ho obsahem.
-
+  - Student univerzity, který může zapsat do aktuálně přiděleného kurzu, který je určen pro něj, a pracovat s informacemi a úkoly poskytnutými jeho vlastním univerzitním vyučujícím.
+  - Univerzitní vyučující, který může vytvořit vlastní kurz pro své studenty a řídit jeho obsah.
+   
 ### Požadavky na přihlášení ke kurzu
 
   1) Být registrovaným uživatelem školního portálu
