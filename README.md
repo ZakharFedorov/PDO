@@ -27,17 +27,21 @@ Pak byste měli při autorizaci použít Liane údaje.
 
 ### Navigace na portálu
 
+![alt text](https://github.com/ZakharFedorov/PDO/blob/main/navstenkaBar.png)
+
 Titulní stánka - Na Titulní stránce portálu se nachází vyhledávání všech existujících kurzů a novinky související s portálem.
 
 Nástěnka - Po přihlášení se dostanete na domovskou stránku portálu s názvem "Nástěnka". Zde se zobrazí seznam vašich kurzů a aktivity, které se na portálu vyskytují. Můžete si zde prohlížet aktuální informace o vašich kurzech a oznámení od vyučujících.
 
-Kursy - Po kliknutí na název kurzu v seznamu kurzů na domovské stránce se dostanete na stránku kurzu. Zde se nachází materiály a úkoly k danému kurzu, diskusní fórum a další informace týkající se kurzu. Můžete si zde prohlédnout obsah kurzu, stáhnout materiály a odevzdat své úkoly.
+Kurzy - Po kliknutí na název kurzu v seznamu kurzů na domovské stránce se dostanete na stránku kurzu. Zde se nachází materiály a úkoly k danému kurzu, diskusní fórum a další informace týkající se kurzu. Můžete si zde prohlédnout obsah kurzu, stáhnout materiály a odevzdat své úkoly.
 
 Události - V horním menu portálu se nachází odkaz na kalendář. Zde se zobrazují důležité termíny a akce týkající se vašich kurzů.
 
 Profil - V horním menu portálu se nachází odkaz na váš uživatelský profil. Zde si můžete upravit své osobní údaje a spravovat své přihlášení.
 
 Katalog kurzů - V levém sloupci libovolné stránky portálu se nachází odkazy na kurzy. Zde si můžete prohlédnout vše váše kurzy, které jsou k dispozici.
+
+![alt text](https://github.com/ZakharFedorov/PDO/blob/main/navstenkaKursy.png)
 
 ### Požadavky na prohlížeč
 
@@ -51,6 +55,8 @@ Je důležité mít aktuální verzi prohlížeče, aby se minimalizovaly probl�
 
 ## III. Přihlašování ke kurzu
 
+![alt text](https://github.com/ZakharFedorov/PDO/blob/main/navigace1.png)
+
 Po úspěšném přihlášení na E-learningový portál bude uživatel přesměrován na domovskou stránku portálu "Nástěnka".
 Pro přístup k určitému kurzu:
 - V bloku Navigace klikněte na Zápis do kurzů (STAG).
@@ -60,6 +66,9 @@ Pro přístup k určitému kurzu:
 
 
 ## IV. Odhlášení z kurzu
+
+![alt text](https://github.com/ZakharFedorov/PDO/blob/main/navigace2.png)
+
 Pro odhlášení z určitého kurzu:
 - V bloku Navigace klikněte na Vyškrtnutí se z kurzů. 
 - (1) Jestli jste studující, zaškrtněte si kurzy, ze kterých se chcete odhlásit a již na elearningu existují.
