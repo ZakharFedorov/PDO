@@ -55,7 +55,7 @@ Po úspěšném přihlášení na E-learningový portál bude uživatel přesmě
 Pro přístup k určitému kurzu:
 - V bloku Navigace klikněte na Zápis do kurzů (STAG).
 - (1) Jestli jste studující, zaškrtněte si kurzy, do kterých se chcete zapsat a již na elearningu existují.
-- (2) Jestli jste učitel, zaškrtněte si kurzy, které chcete vytvořit.
+- (2) Jestli jste vyučující, zaškrtněte si kurzy, které chcete vytvořit.
 - Klikněte na Uložit změny a přejděte na Nástěnku.
 
 
@@ -63,7 +63,7 @@ Pro přístup k určitému kurzu:
 Pro odhlášení z určitého kurzu:
 - V bloku Navigace klikněte na Vyškrtnutí se z kurzů. 
 - (1) Jestli jste studující, zaškrtněte si kurzy, ze kterých se chcete odhlásit a již na elearningu existují.
-- (2) Jestli jste učitel, zaškrtněte si kurzy, které chcete smazat.
+- (2) Jestli jste vyučující, zaškrtněte si kurzy, které chcete smazat.
 - Klikněte na Uložit změny a přejděte na Nástěnku.
 
 
