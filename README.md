@@ -33,11 +33,11 @@ Titulní stánka - Na Titulní stránce portálu se nachází vyhledávání vš
 
 Nástěnka - Po přihlášení se dostanete na domovskou stránku portálu s názvem "Nástěnka". Zde se zobrazí seznam vašich kurzů a aktivity, které se na portálu vyskytují. Můžete si zde prohlížet aktuální informace o vašich kurzech a oznámení od vyučujících.
 
-Kurzy - Po kliknutí na název kurzu v seznamu kurzů na domovské stránce se dostanete na stránku kurzu. Zde se nachází materiály a úkoly k danému kurzu, diskusní fórum a další informace týkající se kurzu. Můžete si zde prohlédnout obsah kurzu, stáhnout materiály a odevzdat své úkoly.
-
 Události - V horním menu portálu se nachází odkaz na kalendář. Zde se zobrazují důležité termíny a akce týkající se vašich kurzů.
 
 Profil - V horním menu portálu se nachází odkaz na váš uživatelský profil. Zde si můžete upravit své osobní údaje a spravovat své přihlášení.
+
+Kurzy - Po kliknutí na název kurzu v seznamu kurzů na domovské stránce se dostanete na stránku kurzu. Zde se nachází materiály a úkoly k danému kurzu, diskusní fórum a další informace týkající se kurzu. Můžete si zde prohlédnout obsah kurzu, stáhnout materiály a odevzdat své úkoly.
 
 Katalog kurzů - V levém sloupci libovolné stránky portálu se nachází odkazy na kurzy. Zde si můžete prohlédnout vše váše kurzy, které jsou k dispozici.
 
