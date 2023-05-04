@@ -1,13 +1,13 @@
-# Zapís do kurzu na E-learningovem portálu
+# Zápis do kurzu na E-learningovem portálu
 
 ## I. Přehled
 
 ### Účel dokumentace
 
-   E-lerning je internetový portál, který poskytuje vzdělávací prostředí v rámci univerzitní sítě. Na E-lerningové platformě můžete vytvořit nový kurz předmětu nebo se zapsat na existující kurz, vše závisí na vaší roli.
+   E-lerning je internetový portál, který poskytuje vzdělávací prostředí v rámci univerzitní sítě. Na E-lerningové platformě může uživatel vytvořit nový kurz předmětu nebo se zapsat na existující kurz, vše závisí na roli uživatele.
 
 ### Cílová skupina uživatelů
-  - Student univerzity, který může zapsat do aktuálně přiděleného kurzu, který je určen pro něj, a pracovat s informacemi a úkoly poskytnutými jeho vlastním univerzitním vyučujícím.
+  - Student univerzity, který může se zapsat do aktuálně přiděleného kurzu, který je pro něj určen, a díky tomu pracovat s informacemi a úkoly poskytnutými jeho vlastním univerzitním vyučujícím.
   - Univerzitní vyučující, který může vytvořit vlastní kurz pro své studenty a řídit jeho obsah.
    
 ### Požadavky na přihlášení ke kurzu
@@ -22,8 +22,8 @@
 
 ### Získání přístupových údajů
 
-Pro získání přístupových údajů ke e-learningovému portálu, nutné aby vam udělali účet Liane.
-Pak byste měli při autorizaci použít Liane údaje.
+Pro získání přístupových údajů k e-learningovému portálu, je nutné mít zřizen účet Liane,
+aby bylo možné při autorizaci použít Liane údaje.
 
 ### Navigace na portálu
 
@@ -37,27 +37,27 @@ Události - V horním menu portálu se nachází odkaz na kalendář. Zde se zob
 
 Profil - V horním menu portálu se nachází odkaz na váš uživatelský profil. Zde si můžete upravit své osobní údaje a spravovat své přihlášení.
 
-Kurzy - Po kliknutí na název kurzu v seznamu kurzů na domovské stránce se dostanete na stránku kurzu. Zde se nachází materiály a úkoly k danému kurzu, diskusní fórum a další informace týkající se kurzu. Můžete si zde prohlédnout obsah kurzu, stáhnout materiály a odevzdat své úkoly.
+Kurzy - Po kliknutí na název kurzu, v seznamu kurzů, se na domovské stránce dostanete na jeho stránku. Zde se nachází materiály a úkoly k danému kurzu, diskusní fórum a další informace týkající se kurzu. Můžete si zde prohlédnout jeho obsah, stáhnout materiály a odevzdat své úkoly.
 
-Katalog kurzů - V levém sloupci libovolné stránky portálu se nachází odkazy na kurzy. Zde si můžete prohlédnout vše váše kurzy, které jsou k dispozici.
+Katalog kurzů - V levém sloupci libovolné stránky portálu se nachází odkazy na kurzy. Zde si můžete prohlédnout všechny vaše kurzy, které jsou k dispozici.
 
 ![alt text](https://github.com/ZakharFedorov/PDO/blob/main/navstenkaKursy.png)
 
 ### Požadavky na prohlížeč
 
-- Prohlížeč by měl být nejnovější verze běžných webových prohlížečů, jako jsou Google Chrome, Mozilla Firefox, Microsoft Edge a Safari.
+- Prohlížeč by měl být aktualní verzí běžných webových prohlížečů (Google Chrome, Mozilla Firefox, Microsoft Edge a Safari).
 - Prohlížeč by měl být kompatibilní s JavaScriptem a cookies.
 - Prohlížeč by měl mít povolenou funkci pop-up okna, protože některé části portálu se otevírají v novém okně nebo v nové záložce.
 - Rychlost internetového připojení by měla být alespoň 5 Mbit/s, aby se minimalizovaly zpoždění a čekání na načítání stránky.
 
-Je důležité mít aktuální verzi prohlížeče, aby se minimalizovaly problémy s chybami a aby byla zajištěna co nejlepší bezpečnost dat. Pokud uživatel má zastaralou verzi prohlížeče, může mít problémy s načítáním stránek, chybějícími funkcemi nebo chybovými hláškami.
+Je důležité mít aktuální verzi prohlížeče, z důvodu minimalizování chyb a zajištění co nejlepší bezpečnosti dat. Pokud uživatel má zastaralou verzi prohlížeče, může mít problémy s načítáním stránek, chybějícími funkcemi nebo chybovými hláškami.
 
 
 ## III. Přihlašování ke kurzu
 
 ![alt text](https://github.com/ZakharFedorov/PDO/blob/main/navigace1.png)
 
-Po úspěšném přihlášení na E-learningový portál bude uživatel přesměrován na domovskou stránku portálu "Nástěnka".
+Po úspěšném přihlášení na E-learningový portál bude uživatel přesměrován na stránku "Nástěnka".
 Pro přístup k určitému kurzu:
 - V bloku Navigace klikněte na Zápis do kurzů (STAG).
 - (1) Jestli jste studující, zaškrtněte si kurzy, do kterých se chcete zapsat a již na elearningu existují.
