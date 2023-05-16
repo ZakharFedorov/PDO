@@ -1,5 +1,34 @@
 # Zápis do kurzu na E-learningovem portálu
 
+---
+## Obsah:
+I. Úvod
+  - Účel dokumentace
+  - Cílová skupina uživatelů
+  - Požadavky na přihlášení ke kurzu
+
+II. Přístup k portálu
+  - Získání přístupových údajů
+  - Navigace na portálu
+  - Požadavky na prohlížeč
+
+III. Přihlašování ke kurzu
+
+IV. Odhlášení z kurzu
+
+V. Řešení problémů
+  - Zapomenuté heslo
+  - Chybové hlášky
+  - Kontrola internetového připojení
+  - Podpora
+
+VI. Závěr
+  - Shrnutí dokumentace
+  - Doporučené postupy
+  - Odkazy na další zdroje informací
+
+---
+
 ## I. Přehled
 
 ### Účel dokumentace
@@ -104,31 +133,3 @@ Pokud se vyskytnou potíže s přihlášením, zkontrolujte své přihlašovací
 
 Pokud potřebujete další informace o používání školního portálu, můžete se obrátit na technickou podporu portálu nebo administrátora.
 Další informace o požadavcích na prohlížeč a zabezpečení můžete najít v dokumentaci vašeho prohlížeče nebo na webových stránkách poskytovatele internetových služeb.
-
-
----
-## Struktura:
-I. Úvod
-  - Účel dokumentace
-  - Cílová skupina uživatelů
-  - Požadavky na přihlášení ke kurzu
-
-II. Přístup k portálu
-  - Získání přístupových údajů
-  - Navigace na portálu
-  - Požadavky na prohlížeč
-
-III. Přihlašování ke kurzu
-
-IV. Odhlášení z kurzu
-
-V. Řešení problémů
-  - Zapomenuté heslo
-  - Chybové hlášky
-  - Kontrola internetového připojení
-  - Podpora
-
-VI. Závěr
-  - Shrnutí dokumentace
-  - Doporučené postupy
-  - Odkazy na další zdroje informací
